@@ -12,7 +12,7 @@
 
 const Alexa = require('alexa-sdk');
 
-const APP_ID = undefined;  // TODO replace with your app ID (OPTIONAL).
+const APP_ID = 'amzn1.ask.skill.a80652fb-c20d-4ccb-b079-7dd670c99909'
 
 const languageStrings = {
     'en-GB': {
